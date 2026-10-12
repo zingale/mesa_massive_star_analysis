@@ -1,0 +1,10 @@
+__pycache__
+
+.ipynb_checkpoints/
+
+Untitled*.ipynb
+
+# we store the zipped files
+
+history.data
+profile*.data
